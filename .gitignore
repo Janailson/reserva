@@ -1,0 +1,8 @@
+Bin/*.pdb
+reserva.Business/bin/
+reserva.Business/obj/
+reserva.Data/bin/
+reserva.Data/obj/
+reserva.Entity/bin/
+reserva.Entity/obj/
+*.suo
